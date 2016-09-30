@@ -1,0 +1,796 @@
+commit df04c7ea78cbc47e4b600b7be038f3a3e973c811
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 20:37:39 2016 -0400
+
+    headers
+
+commit 51e155b1abd119dc7a73060935d6a45c549e5469
+Author: Lalit Varada <lvarada1@jhu.edu>
+Date:   Fri Apr 29 23:57:45 2016 +0000
+
+    README created online with Bitbucket
+
+commit 8f3285ca87d761fe049f05122886485054990f99
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 19:56:10 2016 -0400
+
+    makefile
+
+commit 9a0c8420a69c4a8dd3147df7d2b16512894219d4
+Merge: 2ee09c8 9c96eb8
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 19:50:12 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 2ee09c867f56b6c1e6dc1bf245788bf9f6510465
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 19:49:58 2016 -0400
+
+    fixed small thing
+
+commit 9c96eb8ea79eaa9a036c9da150a243cc818da6a4
+Merge: eb31dae 3b48a40
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 19:49:16 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit eb31dae44ed0465804e8631064febf4fa7c19087
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 19:49:00 2016 -0400
+
+    Added on more test for battleship
+
+commit 3b48a406f61f3e466654bbd729e8bccc052efbee
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 19:48:02 2016 -0400
+
+    full tests
+
+commit cff2d971f5d870967bec467eadf2639708746952
+Merge: 90cfb7f 5cbd823
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 19:39:29 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 90cfb7f92aa8edd8eebf45b4417a9c2b5fdb4d4b
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 19:39:15 2016 -0400
+
+    checkers jump
+
+commit 5cbd823d860c852a78e0621b82800054814acab7
+Merge: 59938d4 721d68e
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 19:32:31 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 59938d41f78543f8e6241bcb33ac0b37d8301d0e
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 19:32:16 2016 -0400
+
+    found more cases
+
+commit 721d68e9866a083f87e3bab295209eb93a64af0c
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 19:23:26 2016 -0400
+
+    Fixed option 3
+
+commit 94549cc17e8624f85032bb37c7ec1ff87a427ca6
+Merge: 0e841e1 617c7b3
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 19:07:58 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 0e841e1f01451bb6409203d951aefa1037b2020e
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 19:07:31 2016 -0400
+
+    Added option 3
+
+commit 617c7b348eebd9799831fed4a4577d53f270c91c
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:59:48 2016 -0400
+
+    placed the chips
+
+commit c915f4e1a4784725450d49e764705e93f0c8e6cb
+Merge: dd20ebf 7afeb72
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:57:58 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12011/final_project
+
+commit dd20ebfd7e10f1c103497dfc94042350fc3afbf9
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:57:47 2016 -0400
+
+    should be able to crown with jump now
+
+commit 7afeb7204018e0253a9902ae4e3ad97e3ca2bb67
+Merge: c6e0dc9 177125f
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 18:56:19 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 177125f834621fa76b2095cb50276a808e608a64
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:56:12 2016 -0400
+
+    battleship.cpp
+
+commit c6e0dc914fa38027521563de8276c241c9d4f5e2
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 18:55:56 2016 -0400
+
+    red crowns now
+
+commit 948b83a4a696c8f09430bbcd7432ad1d37d78c6a
+Merge: 1fd7ebb d4b4dee
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 18:47:14 2016 -0400
+
+    rename
+
+commit 1fd7ebbf862589cf1a3691d94272a5410cd4b95a
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 18:43:13 2016 -0400
+
+    added more tests
+
+commit d4b4dee87011520793d5c7e3554a8addba64aa84
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:40:49 2016 -0400
+
+    It should be able to push now
+
+commit 16cad94cfd9652df801337ddfc8c2403b5b482c1
+Merge: 83df436 d3f1588
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:23:10 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit d3f1588497b7f854b975654fdf22e71978d3b67e
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 29 22:23:03 2016 +0000
+
+    allgames.cpp edited online with Bitbucket
+
+commit 83df4361252f37339d6cf2f133283225829f508e
+Merge: d32be17 2bfbe6c
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:16:59 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit d32be17e87a7fc37b6c2293d5f0fc6db3d0b45f6
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 18:16:19 2016 -0400
+
+    mine
+
+commit 2bfbe6cccc2c2c007a7e57184935793b94b0b059
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 18:15:39 2016 -0400
+
+    New battleship header
+
+commit 1083dfc2ef1cf8932a452525ec91752d06d6824f
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 18:15:01 2016 -0400
+
+    header to cpp battleship
+
+commit f5751960843006d3748047740b9ff820c096eb64
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 17:57:22 2016 -0400
+
+    test file
+
+commit 027a4b3f7428833ab9cf3db89f18de617aa58c9b
+Merge: d8634df ad2f13a
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 17:33:32 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit d8634dffdaf8dd42d88e872e206c7b4a0caf647f
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 17:33:08 2016 -0400
+
+    making tests
+
+commit ad2f13aec3c3a660d2a30bd6734fef643889abf1
+Merge: 1a28e89 a669044
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 17:32:56 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 1a28e89af8113e4d356efad748c785f5fe52f5b5
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 17:32:28 2016 -0400
+
+    checkers can jump now
+
+commit a669044e024c3a16785071bd968743547d210737
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 17:09:23 2016 -0400
+
+    make works
+
+commit ca2cb7bf3eb02bbf5b163722a29ddadff4fcfe16
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 29 20:59:18 2016 +0000
+
+    checkersT.cpp deleted online with Bitbucket
+
+commit 58a9e63e29e489e285c8625aec398dba6beffcf1
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 29 20:58:51 2016 +0000
+
+    checkers.cpp deleted online with Bitbucket
+
+commit 6d518136a0d56d2b32cb8bebc4414b548c8b8bc1
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 29 20:58:22 2016 +0000
+
+    battleship.cpp deleted online with Bitbucket
+
+commit cf096872eb876ad7f9b267918828469b7175ddfd
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 29 20:57:57 2016 +0000
+
+    basic_battleship.h deleted online with Bitbucket
+
+commit 1587e3a2887b4e681b190f17cdfe3828c61c3865
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 29 20:57:25 2016 +0000
+
+    test.cpp deleted online with Bitbucket
+
+commit 1ce566c6f1f3683e1e4b71756111add578e75a81
+Merge: 5697859 76c270f
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 16:53:16 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 56978596670ccac659ef87bad322b092d5760df7
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 16:52:51 2016 -0400
+
+    Added another test for moving battleship
+
+commit 76c270fd34aa5584b926af5327cee079231983d4
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Fri Apr 29 16:47:53 2016 -0400
+
+    making makefile
+
+commit fc21b8cfa85fc7a30e5f48d94381c79ccdb74c03
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 16:04:51 2016 -0400
+
+    got invalid cases for move
+
+commit 3fcb332e5f037bad0882a49b5c1838c6677f42c9
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 16:00:15 2016 -0400
+
+    more to move
+
+commit 7a803c06bce16a71626b6e125e07a2f664ab58fd
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 15:43:10 2016 -0400
+
+    game.h with virtual functions
+
+commit 5c2832ca8e7a14436ca874325acac5fe10210b87
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 15:42:52 2016 -0400
+
+    game.h with virtual functions
+
+commit 292ed5f289b104edff212d49eb5b8ad39e2dadd8
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 15:33:12 2016 -0400
+
+    got the battleship attacks to stay after moving
+
+commit 37d8a4561ac7d4fc45b297850a819b26ec818b13
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 15:23:04 2016 -0400
+
+    battleship move is even more complete
+
+commit 27691cf9e11c77f0d5714103c757a75db603ae2a
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 14:19:57 2016 -0400
+
+    battleship and test
+
+commit 23fa3417f74440d047c08820ebc3f59220fb2a13
+Merge: 62c1c6c 384433d
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 13:59:16 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 62c1c6cbb53803bc34ed2d4b149879be61684699
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 13:59:00 2016 -0400
+
+    added to test.cpp, battleship.h, and checkers.h
+
+commit 384433dd226278e270149343d7135d3d1e27d357
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 11:34:23 2016 -0400
+
+    Added another test for player 1 win
+
+commit abe8a282bf939c4e572d251f63156d46466ca916
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 29 11:24:42 2016 -0400
+
+    Fixed some errrors
+
+commit abfe50cfb698031b13d315b0278c0437fb63af2a
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 10:44:43 2016 -0400
+
+    preparing for jump
+
+commit e044de3fccbf82dc8e84cdb84b227e4953da9aa7
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 10:32:36 2016 -0400
+
+    added normal move and should have get_moves working completely
+
+commit 0c86957f352ee34bc7eed23c28ec4aa86ce82750
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 02:28:03 2016 -0400
+
+    added a lot of functionality to checkers
+
+commit c0d81ebe5afc5593f108bb99c334121847d21941
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 00:46:24 2016 -0400
+
+    added comments and next_turn
+
+commit 9e5e3f57d5c8d869c99b03abe00c8fa6ab2fcca8
+Merge: 09439c0 8c77cf5
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 00:30:34 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 09439c098187419901cf24b53bc368d0033b5190
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 29 00:30:17 2016 -0400
+
+    got move to work finally
+
+commit 8c77cf5cbc902a95af308de91cf55dff51af6124
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 28 23:27:02 2016 -0400
+
+    Changed allgames
+
+commit 545b1a4a460102f763ab56498fd8ec71a280336b
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 23:21:10 2016 -0400
+
+    more for move
+
+commit bd3f9e75bfd98b5823f8d44818f632784fe672fb
+Merge: df79db8 45c9e53
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Thu Apr 28 23:03:18 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit df79db8cd8607d42048d9f323c85a2d5652b97d8
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Thu Apr 28 23:02:49 2016 -0400
+
+    renamed
+
+commit 1a12de6fb96d2d1c6fcaf7a7a85214034159b81e
+Author: Tony Melo <tmelo1@jhu.edu>
+Date:   Thu Apr 28 23:02:06 2016 -0400
+
+    checkers remake WIP
+
+commit 45c9e5324a78dbe430b1aba1a47bf036f2eac637
+Merge: 33f23a9 8bb3af3
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 22:37:15 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 33f23a941768490e2ae837dd86c903bd98a3450e
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 22:37:03 2016 -0400
+
+    tester
+
+commit e8f9feb0a1892ae4a2c6874f52fe807742b8e513
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 22:36:48 2016 -0400
+
+    move function!
+
+commit 8bb3af33b44a6c28a4c7d213ecc8bae4379eedab
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 28 22:33:19 2016 -0400
+
+    Wrote one test wor Battleship
+
+commit d1ffe3c7b72939624e9f59da14248efb3d5c16a0
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 22:26:02 2016 -0400
+
+    reordered
+
+commit 68ff4b533d37007765a27f9c978986f1105b312b
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 22:22:40 2016 -0400
+
+    added to move and attack_square
+
+commit b5692ac0bfb2d11c76935b06c6aa24c9eb0187ec
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 21:10:42 2016 -0400
+
+    added move to battleship
+
+commit 5b52defe9fe40dbfd2251717112a70802a9d5aa6
+Merge: e94c091 1a46d8b
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 28 00:31:29 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit e94c091b09c839e95afbe1173c5c9c7dc7ffbd09
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 28 00:30:49 2016 -0400
+
+    Added mobielbattleship
+
+commit 1a46d8b4620824339e9dab245c1b00daa0db339e
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 28 00:09:47 2016 -0400
+
+    filled move function
+
+commit 0c2ea703b5196968eb4357cd107de8c95d96ed60
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 23:50:04 2016 -0400
+
+    fixed an error
+
+commit d258e2b0e8edcd808f844c2fd7e53189220ed749
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 23:46:56 2016 -0400
+
+    worked on printing name
+
+commit 847fd3e8ec552a2232ba472af1b72fc5a93a736c
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 23:45:36 2016 -0400
+
+    worked on printing name
+
+commit d073578841efe926b6dd87b5ba221636755caf18
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 23:33:07 2016 -0400
+
+    fixed print
+
+commit 6d86ec118c7e52698ab51bf042843b10e69efd89
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 22:56:22 2016 -0400
+
+    removed unncessay functions
+
+commit 2adebb8549df3f7396115698a34596f60a1d07f1
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 22:41:00 2016 -0400
+
+    player two for attack_square
+
+commit efd4e402ab550d0a21ad7e65d1a8779fb1dd43df
+Merge: 39a0f39 29f9155
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 22:25:48 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 39a0f39d6c675e63fc7b1e8aa0d1aa40a39128f0
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 22:25:29 2016 -0400
+
+    got attack_square to work, thank god
+
+commit 29f915561bc2acf130b1a4116c2faef4145f1889
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 27 22:15:16 2016 -0400
+
+    Fixed coordinate in game
+
+commit 494526e6ebb85a8696a0f6542711bb5afa90d459
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 21:07:46 2016 -0400
+
+    checking if attack works
+
+commit 003dd14d12c189f5af473721c8449bb12b0e2dd7
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 21:01:56 2016 -0400
+
+    commented out all of attack_square
+
+commit 00c524ef972fdc93a957ab6df19076f8bc782c9d
+Merge: 9e9f03c 91027eb
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 27 20:56:01 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 9e9f03c2c5ca816552b767361da5d18bcbd69cea
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 27 17:33:30 2016 -0400
+
+    Updated menu option 1
+
+commit 91027eb9463cd3e04b0616b0fca230aaefebc4db
+Merge: 6852138 c67a7be
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 16:13:07 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit 68521383636bd05f2ded5377cc8a9318b9240067
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 16:12:48 2016 -0400
+
+    changed battleship.h
+
+commit c67a7bedc1339c57b67eba3f0c56d8cdd345d3ff
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 27 16:09:18 2016 -0400
+
+    Finished fixing menu
+
+commit 64e25a07ae0107fb24cf25c255478a33388aaa14
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 27 15:21:03 2016 -0400
+
+    fixed the print and add_ship functions
+
+commit dd5ac7cb03d58525132754eaac0f8c688eb54493
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 27 12:19:09 2016 -0400
+
+    Working allgames
+
+commit 7f755c3f8bf9dd81194cbb289f32652f96cf1aa8
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Tue Apr 26 22:56:44 2016 -0400
+
+    Created main menu
+
+commit 03d40b88863bee43cdfc7f226f2478fe822f0136
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 22:30:39 2016 -0400
+
+    Changed constrctor stuff
+
+commit d6645c1475abc92f90b5368a35f78c306c49d02d
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 22:30:02 2016 -0400
+
+    Deleted
+
+commit 16405ea740e2b08320e435da8e1cfa8542edee5e
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 21:53:35 2016 -0400
+
+    fixed the constructer errors for ship
+
+commit e7bb3a0a83132bbe4cb7661bfa68e254e1f744b0
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 21:48:41 2016 -0400
+
+    The cpp version of battleship.h
+
+commit 19c8c5c6a472a904d82abb58db7489576f1773a9
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 21:47:58 2016 -0400
+
+    removed size from constucter
+
+commit 6d922820f9cba93088236b4999fddd0785e405b1
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 21:38:03 2016 -0400
+
+    started the print function
+
+commit b358829de3b218c2ab8df63616701be2d5f23720
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 26 21:10:17 2016 -0400
+
+    added next turn function
+
+commit 4b6ad7b9930080d74b5ae73ac72fe036fa42e89a
+Author: Magna <lvarada1@jhu.edu>
+Date:   Mon Apr 25 16:16:58 2016 -0400
+
+    finished attack_square
+
+commit 428f474b20bcda4faee29768a701bcec6cb4a967
+Author: Magna <lvarada1@jhu.edu>
+Date:   Mon Apr 25 10:31:15 2016 -0400
+
+    Got futher, and am now working on the attack square of normal battleship
+
+commit 51e76dae4d9f4d803de80f6ff71993e5ff28170f
+Author: Magna <lvarada1@jhu.edu>
+Date:   Mon Apr 25 00:21:12 2016 -0400
+
+    cleared up a lot of errors and stopped using enums for ship type
+
+commit dc71e47557f734680b265c33b0adb73885b45617
+Merge: 985e4f5 c015fc8
+Author: Magna <lvarada1@jhu.edu>
+Date:   Sat Apr 23 16:21:05 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit c015fc8554090f6ce6f3461db7adb366a4de29a5
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Sat Apr 23 16:20:55 2016 -0400
+
+    Worked on Battleship
+
+commit 985e4f50c1e9f792bfcf845060d7d27ebefac325
+Author: Magna <lvarada1@jhu.edu>
+Date:   Sat Apr 23 16:20:40 2016 -0400
+
+    got checkers started and the print function done
+
+commit f4f4c2654000117f85c54bdcf377c3a895f67dfc
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Sat Apr 23 14:20:14 2016 -0400
+
+    Added print
+
+commit ff463a1d4c1dd5794d918703c2e4fb642fb6e1a7
+Author: Magna <lvarada1@jhu.edu>
+Date:   Sat Apr 23 14:14:17 2016 -0400
+
+    Converted the cpp into a .h
+
+commit 13022716fb0dd5d2ad43f5773bf022f0329e7dee
+Author: Lalit Varada <lvarada1@jhu.edu>
+Date:   Sat Apr 23 18:13:23 2016 +0000
+
+    battleship.h deleted online with Bitbucket
+
+commit 98d64cd2dc3269d0f3182d479446f7bcfb76def3
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 20:55:27 2016 -0400
+
+    added bracket and fixed errors
+
+commit 294a8372b79c7e1edd000330e006ece5153ef4ae
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 20:46:02 2016 -0400
+
+    moved the private parts
+
+commit e73e641c35feae152c60bf84ee525b84a6ad7ac9
+Merge: b21a52f e0ffca5
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 20:43:03 2016 -0400
+
+    Merge branch 'master' of https://bitbucket.org/cs12012/final_project
+
+commit b21a52fccc1644ad2fdbaf2210ed973412d96973
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 20:42:36 2016 -0400
+
+    Move function
+
+commit e0ffca5a941babd2172769cae6c75a128bd6ef6f
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 22 23:39:33 2016 +0000
+
+    basic_battleship.o deleted online with Bitbucket
+
+commit 2a0d0ab2c40c35ca610d819ee186296c074d1116
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 19:38:12 2016 -0400
+
+    Finished ship class
+
+commit a8729ad2f02904cf530b7836305e35a40c667584
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 19:22:49 2016 -0400
+
+    added a constructor and std::
+
+commit 10d7ae41a1d66f38f96b5e3c04fb6c6d459cfa9c
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 19:14:19 2016 -0400
+
+    Basic Battle
+
+commit f21d7b297f7baea793d6ce7d8f5758becf58c9c5
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 16:18:04 2016 -0400
+
+    changed battleship functions and made things private
+
+commit d7f8b001846fcff34db866320cd4c67fb4529c29
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 16:07:33 2016 -0400
+
+    New battleship for final project
+
+commit f089c2e6fe94aca5f3433ff25e913df6dde6a578
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 16:04:52 2016 -0400
+
+    added get turn
+
+commit dd0aac3f95b77afc0f593b1f88adcbb44285e977
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 16:02:25 2016 -0400
+
+    Battleship.h
+
+commit a486640ff5570a5016af5bc9733cd2f0cb1509b1
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 16:00:08 2016 -0400
+
+    made things private
+
+commit 81211f90f318f0dd9fe748cac492abea260d9f91
+Author: Lalit Varada <lvarada1@jhu.edu>
+Date:   Fri Apr 22 19:55:30 2016 +0000
+
+    test.txt deleted online with Bitbucket
+
+commit 6886ead7f99d1590a1cbe6d8bce9f0d924fec61c
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 15:55:04 2016 -0400
+
+    Initial Code
+
+commit a48fa76e5f0c4890ab9d130c82e9fd9e3c7a93e3
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Fri Apr 22 15:51:19 2016 -0400
+
+    Changed contributors
+
+commit f12655dd1c581000b0a57083a8c0462bacfccac4
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 15:48:49 2016 -0400
+
+    Test
+
+commit 82be7d25d2554ef29f1df2142bfd0341cf395f2b
+Author: Magna <lvarada1@jhu.edu>
+Date:   Fri Apr 22 15:40:46 2016 -0400
+
+    Initial commit with contributors

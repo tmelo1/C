@@ -1,0 +1,38 @@
+TEAM:
+Lalit Varada lvarada1
+Ye Chan Kim ykim160
+Tony Melo tmelo1
+
+REQUIRED LANGUAGE FEATURES:
+
+Appearence of STL container classes:
+    The first STL container class to be used is the map, which we used in the Ship class. 
+    The map mapped coordinates to characters which represent the condition of that part of the ship. 
+    We also used the map in our checkers game to map coordinates to the pieces. 
+    The second STL container to be used was vector which was used Battleship to hold all of the ships for each player. 
+    The third container that we used was a set which we used to check which pieces can move at each turn. 
+    This allowed us to quickly tell which moves were allowed for each player in checkers making it much easier to check whether a piece could jump.
+    
+C++ inheritance
+    Battleship inherited from game.h the game functions, it also filled up attacke_square() and print(), both virtual functions in game.h. 
+    Checkers does the same as Battleship, in the manner that it inherits functions from game.h, such as get_turn() and next_turn(). 
+    This allowed for the variables in game.h to be encapsulated well.
+
+
+Polymorphism
+    Both of our function classes (battleship.cpp and checkers.cpp) 
+    - the other functions in game.h and also used in both battleship and checkers.
+
+COMPLETENESS:
+    All the programs and all the tests work. The boundary cases for battleship.h and battleship.cpp were checked. Including the cases were ships with bad coordinates
+    
+DESIGN:
+    Our programs were built using mainly maps. In battleship each of the maps represented a ship and when a section of the ship was attached the map would change its value at that coordinate from 'O' to 'X'. 
+    This allowed us to easily check when something was a part of a ship and what was its state. The only downside is that it makes it a little harder to check whether ships are overlapping. The main battleship class just
+    had a vector of 5 ships and would loop through them to find a ship that it needed. The mobile battleship was the same class as the other battleship, it was just that it utilized the move function while the other did not.
+    Our checkers game was built on the board class that we make in hw5. It was just a map that mapped coordinates to characters that represented the pieces. This worked out really well as the pieces were easily acessible and 
+    allowed for us to find which pieces could move rather quickly, with just a double for loop.
+    
+SPECIAL INSTRUCTIONS:
+    When testing test_checkers.cpp for the test to continue the user has to input bl first and then another user input prompt will appear and the user has to input br
+    for the tester to successfully test all the cases.

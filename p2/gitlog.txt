@@ -1,0 +1,47 @@
+commit 626c5bb96378b891d6b4a260f78ad4bd7df63691
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Feb 23 21:13:49 2016 -0500
+
+    Added some tests
+
+commit 6e6fdb726f76d0cbfd84680d379bcef7f9771239
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Feb 23 21:13:11 2016 -0500
+
+    Added makefile
+
+commit b5d927de8c010f86b5584bddeb16e6777c37ebe7
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Feb 23 20:21:28 2016 -0500
+
+    Created hw2.c with main to create executable
+
+commit 7d60ef9e7ca5685aa36b13ae7af4d2813f34d8cc
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Feb 23 17:58:28 2016 -0500
+
+    Changes to methods and parameters, uses array from main
+
+commit d6717d23e515426c404d25d7f267abe421843f04
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Feb 23 12:56:15 2016 -0500
+
+    Fixed search algorithm, added pattern splitting
+
+commit d33b1fd1e5e6e3603d165e13fa06795018954bc1
+Author: Tony <tmelo1@jhu.edu>
+Date:   Mon Feb 22 21:46:59 2016 -0500
+
+    Added check for invalid sequences
+
+commit b809511ecc7f423e908fcc8eb01bb1df7f396b5e
+Author: Tony <tmelo1@jhu.edu>
+Date:   Mon Feb 22 21:27:29 2016 -0500
+
+    Added object file, method to read file
+
+commit 1fc30f579fba146394893296f45edb0c1108a2fe
+Author: Tony <tmelo1@jhu.edu>
+Date:   Mon Feb 22 20:25:18 2016 -0500
+
+    Initial creation of search algorithm

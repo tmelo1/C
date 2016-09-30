@@ -1,0 +1,186 @@
+commit 79f8c66a258164218279f10a681f6037961a84dd
+Author: Tony <tmelo1@jhu.edu>
+Date:   Fri Apr 15 00:31:11 2016 -0400
+
+    Everything works using makefile
+
+commit fb925669aa64b7076b2bd5e38cf99adba8d9e898
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 14 23:37:23 2016 -0400
+
+    Latest version
+
+commit a28eee7b8691ae4fbc20b3b1015208b1138de2f6
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 14 21:28:50 2016 -0400
+
+    Added assert
+
+commit 68fd9cbe8dd12513417725b3d2f032139b694587
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 14 21:27:49 2016 -0400
+
+    Finshed fixing all errors except map
+
+commit 8edfdd7aab99052877193b41d69f3da34c8f6e22
+Author: Magna <lvarada1@jhu.edu>
+Date:   Thu Apr 14 20:16:10 2016 -0400
+
+    Lalit's Battleship
+
+commit 87777ceec75a8396e1675d1a47341bd3cc4e067d
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 15 00:11:42 2016 +0000
+
+    myGame.h deleted online with Bitbucket
+
+commit 725cc3431dea073ed8f6c4e813cadfe6d2840a9a
+Author: Ye Chan Kim <ykim160@jhu.edu>
+Date:   Fri Apr 15 00:11:27 2016 +0000
+
+    battleship.h deleted online with Bitbucket
+
+commit aba5098ee5f6f89bc2d31a8d995ee154e0333282
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 14 18:38:02 2016 -0400
+
+    Finished tictactoe
+
+commit 31fab3a846832118ef5013156f7fc01f6aef2bfb
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 14 18:32:33 2016 -0400
+
+    New game.h
+
+commit b4bab782bb0c791fd847425e99db04ab3ea9662f
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Thu Apr 14 18:24:27 2016 -0400
+
+    Finished tictactoe.h
+
+commit e9acad177770b77afeb583dfaa82ae8932de8158
+Author: Tony <tmelo1@jhu.edu>
+Date:   Thu Apr 14 16:45:01 2016 -0400
+
+    Added 2nd board, my bad
+
+commit a5e24754876ecd2d1b9b59c53e62862c14176138
+Author: Tony <tmelo1@jhu.edu>
+Date:   Thu Apr 14 15:57:13 2016 -0400
+
+    Finished version of attack_square and battleshipgame I believe
+
+commit f5c476705623efd5e86b42cea2cd1e8ea21f9be6
+Merge: 16a0957 b2092ab
+Author: Tony <tmelo1@jhu.edu>
+Date:   Wed Apr 13 16:16:35 2016 -0400
+
+    Working on battleship game constructor
+
+commit b2092ab0307664e2d7d7c2dc151120a4a35c710c
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 13 16:10:49 2016 -0400
+
+    added std:: to the front of make_pair()
+
+commit 16a0957d8ea2b6c7960ff680249941e5a436e340
+Author: Tony <tmelo1@jhu.edu>
+Date:   Wed Apr 13 16:10:24 2016 -0400
+
+    Added myGame.h with some small battleship changes
+
+commit d77903f92d969f3a666f1cd49df06057a5259494
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 13 16:03:22 2016 -0400
+
+    Win has been worked on, and the order of the return statments has been changed
+
+commit 4a8b283c21817854f4ca7020970b29725331213d
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 13 15:56:14 2016 -0400
+
+    Finished attack_square
+
+commit d1c6892b750cd76a711be432845eff2c07ac757e
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 13 15:52:42 2016 -0400
+
+    New game.h and tictactoe.h
+
+commit 4f75fb08ff884c7188abe44dc15dedd11cd09815
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 13 15:44:20 2016 -0400
+
+    Changed tictactoe.h
+
+commit 9ec72143f144a48879955f3d17354b7d1b3e01fe
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 13 15:41:31 2016 -0400
+
+    New tictactoe.h
+
+commit e99474de3f6decbbf605c0e4f21caf2b2e9e6a95
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 13 15:32:02 2016 -0400
+
+    new version, remade
+
+commit 524224999d427eec773071f7be2ba8d5200fe71f
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Wed Apr 13 15:12:48 2016 -0400
+
+    Changed header
+
+commit 5116612638aa8432f110cd078c7de85248a73fb3
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 13 14:59:51 2016 -0400
+
+    with assert.h now
+
+commit ab1bb448f4463a81d18c1b8c81560a8960c6b524
+Author: Magna <lvarada1@jhu.edu>
+Date:   Wed Apr 13 13:46:31 2016 -0400
+
+    added win except for diagonals
+
+commit c378cf7e6a885d7cfa9000192c6de40918784750
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Tue Apr 12 20:34:53 2016 -0400
+
+    Progress in tictactoe.h
+
+commit 352a5bf070f61e49944da025a50ccbc101303d3d
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 12 20:21:26 2016 -0400
+
+    removed private
+
+commit 75d1b7c4587d51c0a9cbaec5f00b02585669e42e
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 12 20:20:44 2016 -0400
+
+    filled in attack_square
+
+commit 48fc92a6093cdf5f343dd64fcb938bad9d021358
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Tue Apr 12 20:07:19 2016 -0400
+
+    Progress
+
+commit 2c52d02ff9d2838dd515874f219f23f768faf8e0
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Tue Apr 12 19:52:39 2016 -0400
+
+    Testing
+
+commit a646f4db22b4754227836a4138f6b1d5d43926d8
+Author: Magna <lvarada1@jhu.edu>
+Date:   Tue Apr 12 19:41:03 2016 -0400
+
+    Simplified the board and the game classes
+
+commit 3da9ac6d5908630964dbc6987adf474084628d84
+Author: Ye Chan Kim <ykim160@ugradx.cs.jhu.edu>
+Date:   Tue Apr 12 19:22:21 2016 -0400
+
+    Initial Code

@@ -1,0 +1,187 @@
+/*
+Homework 1, 600.120 Spring 2015
+Tony Melo
+2/11/16
+Email - tmelo1@jhu.edu
+Blackboard ID - tmelo1
+Phone # - (201)956-2503
+
+*/
+
+
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+
+#define LENGTH 16
+
+unsigned int convertToDecimal(char courseIn[]);
+void convertToBinary(char binaryArray[], unsigned int decimal);
+int main(int argc, const char* argv[])
+{
+    
+    if(argc != 2) {
+       puts("Error, invalid number of parameters.");
+       return 2;
+    }
+    char course[LENGTH];
+    char binary[33];
+    unsigned int decNumber;
+    FILE* infile = fopen(argv[1], "r");
+    FILE* outfile = fopen("courseInts.txt", "w");
+    while(fscanf(infile, "%s", course) != EOF) {
+        decNumber = convertToDecimal(course);
+        fprintf(outfile, "%u\n", decNumber);
+        printf("%s %u ", course, decNumber);
+        convertToBinary(binary, decNumber);
+        puts("\n");
+    }
+    fclose(infile);
+    return 0;
+}
+
+void convertToBinary(char binaryArray[], unsigned int decimal ) {
+    int i = 0;
+    while(decimal>0) {
+        binaryArray[i++] = decimal%2;
+        decimal /= 2;
+    }
+    for(int c = i-1; c>=0; c--) {
+        printf("%d", binaryArray[c]);
+    }
+}
+
+int getDivision(char courseIn[]) {
+    int divisionCode;
+    switch(courseIn[0]) {
+        case 'A':
+	    divisionCode = 0;
+	    break;
+	case 'B':
+	    divisionCode = 1;
+	    break;
+	case 'E':
+	    if(courseIn[1] == 'D') {
+		divisionCode = 2;
+		break;
+	    } else {
+		divisionCode = 3;
+		break;
+	    }
+	case 'M':
+	    divisionCode = 4;
+	    break;
+	case 'P':
+	    if(courseIn[1] == 'H') {
+		divisionCode = 5;
+		break;
+	    } else {
+		divisionCode = 6;
+		break;
+	    }
+	case 'S':
+	    divisionCode = 7;
+	    break;
+    }
+    return divisionCode;
+}
+
+int getDepartmentNumber(char courseIn[]) {
+     char department[4];
+     int departmentNumber;
+     int j = 0;
+     for(int i = 3; i < 6; i++) {
+         department[j++] = courseIn[i];
+     }
+     sscanf(department, "%d", &departmentNumber);
+     return departmentNumber;
+}
+
+int getCourseNumber(char courseIn[]) {
+     char cnumber[4];
+     int courseNumber;
+     int h = 0;
+     for(int i = 7; i < 10; i++) {
+         cnumber[h++] = courseIn[i];
+     }
+     sscanf(cnumber, "%d", &courseNumber);
+     return courseNumber;
+}
+
+int getLetterGrade(char courseIn[]) {
+     int letterGrade;
+     switch(courseIn[10]) {
+         case 'A':
+             letterGrade = 0;
+	     break;
+         case 'B':
+	     letterGrade = 1;
+             break;
+         case 'C':
+             letterGrade = 2;
+             break;
+         case 'D':
+             letterGrade = 3;
+             break;
+         case 'F':
+             letterGrade = 4;
+             break;
+         case 'I':
+             letterGrade = 5;
+             break;
+         case 'S':
+             letterGrade = 6;
+             break;
+         case 'U':
+             letterGrade = 7;
+             break;
+     }
+     return letterGrade;
+}
+
+int getGradeSign(char courseIn[]) {
+     int gradeSign;
+     switch(courseIn[11]) {
+         case '+':
+             gradeSign = 0;
+             break;
+         case '-':
+             gradeSign = 1;
+             break;
+         case '/':
+             gradeSign = 2;
+             break;
+     }
+     return gradeSign;
+}
+
+int getRightCredit(char courseIn[]) {
+     int rightCredit;
+     switch(courseIn[14]) {
+         case '0':
+             rightCredit = 0;
+             break;
+         case '5':
+             rightCredit = 1;
+             break;
+     }
+     return rightCredit;
+}
+
+int getLeftCredit(char courseIn[]) {
+     int leftCredit = courseIn[12] - '0';
+     return leftCredit;
+}
+
+unsigned int convertToDecimal(char courseIn[]) {
+     unsigned int decimalInt = 0;
+     decimalInt = getDivision(courseIn) ^ decimalInt;
+     decimalInt = (decimalInt << 10) ^ getDepartmentNumber(courseIn);
+     decimalInt = (decimalInt << 10) ^ getCourseNumber(courseIn);
+     decimalInt = (decimalInt << 3) ^ getLetterGrade(courseIn);
+     decimalInt = (decimalInt << 2) ^ getGradeSign(courseIn);
+     decimalInt = (decimalInt << 3) ^ getLeftCredit(courseIn);
+     decimalInt = (decimalInt << 1) ^ getRightCredit(courseIn);
+     return decimalInt;
+}
+

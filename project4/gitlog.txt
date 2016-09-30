@@ -1,0 +1,35 @@
+commit 2357d43782a845013c1a2655367254c12db46765
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Apr 5 22:29:02 2016 -0400
+
+    test file
+
+commit 19f4515c9f694bac30eedc5609708625761401e4
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Apr 5 22:28:46 2016 -0400
+
+    Somewhat working version part b
+
+commit b6f39c810cc245a6e89063507d08e847718274b9
+Author: Tony <tmelo1@jhu.edu>
+Date:   Tue Apr 5 20:53:51 2016 -0400
+
+    Compiling version hw4b
+
+commit 3b146ed2b7957a825150a307aa9c9af40993f17c
+Author: Tony <tmelo1@jhu.edu>
+Date:   Sun Apr 3 15:48:10 2016 -0400
+
+    Fully functional executable
+
+commit 39dc86f26b8b55600b602f87b3f89c2546b6a834
+Author: Tony <tmelo1@jhu.edu>
+Date:   Sun Apr 3 15:28:58 2016 -0400
+
+    Added printing functions
+
+commit 2cfa8bea7ee1b296d48b59e138f06e34343a6825
+Author: Tony <tmelo1@jhu.edu>
+Date:   Sun Apr 3 14:28:07 2016 -0400
+
+    Compiles, creates map
